@@ -44,6 +44,21 @@ A aplicação consome os dados diretamente via HTTP a partir de planilhas públi
 
 ## 🧩 Estrutura do Projeto
 
+📦 Project-Banestes
+├── public/                   # Arquivos públicos
+├── src/
+│   ├── components/           # Componentes reutilizáveis (CardCliente, ModalCliente, etc.)
+│   ├── pages/                # Páginas principais (Home, DetalhesCliente)
+│   ├── services/             # Lógica de fetch e parsing dos dados CSV
+│   ├── types/                # Interfaces TypeScript para Cliente, Conta, Agência
+│   ├── utils/                # Funções auxiliares (como formatadores, filtros)
+│   ├── App.tsx              # Componente principal da aplicação
+│   └── main.tsx             # Ponto de entrada com Vite
+├── .eslintrc.cjs             # Configurações de lint
+├── tsconfig.json             # Configurações TypeScript
+├── vite.config.ts            # Configurações do Vite
+└── README.md
+
 ---
 
 ## 📦 Como rodar localmente
