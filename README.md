@@ -57,6 +57,7 @@ A aplicação consome os dados diretamente via HTTP a partir de planilhas públi
 ├── App.tsx              # Componente principal com as rotas da aplicação
 ├── main.tsx             # Ponto de entrada da aplicação com ReactDOM
 
+```
 ---
 
 ## 📦 Como rodar localmente
@@ -71,3 +72,5 @@ npm install
 
 # Rode a aplicação
 npm run dev
+
+```
