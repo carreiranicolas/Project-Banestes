@@ -44,8 +44,6 @@ A aplicação consome os dados diretamente via HTTP a partir de planilhas públi
 
 ## 🧩 Estrutura do Projeto
 
-## 📦 Estrutura do Projeto
-
 ```bash
 📂 src
 ├── 📁 components         # Componentes reutilizáveis (Card, Input, Pagination, etc.)
@@ -72,5 +70,17 @@ npm install
 
 # Rode a aplicação
 npm run dev
-
 ```
+Acesse http://localhost:5173 no navegador para visualizar o app.
+
+---
+## 🧪 Qualidade e Desempenho
+A aplicação foi testada com o Lighthouse, apresentando bons resultados em:
+
+Desempenho
+
+Acessibilidade
+
+Práticas recomendadas
+
+Responsividade
