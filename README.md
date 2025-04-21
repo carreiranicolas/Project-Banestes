@@ -1,5 +1,5 @@
 
-# 💸 Project Banestes
+# 💸 Teste Prático Banestes
 
 Este projeto foi desenvolvido como parte de um processo seletivo, com o objetivo de construir um **sistema bancário web** utilizando tecnologias modernas de frontend. A aplicação é capaz de **listar, filtrar, paginar e visualizar detalhes de clientes bancários**, bem como exibir informações relacionadas às suas contas e agências.
 
