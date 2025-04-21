@@ -3,7 +3,7 @@
 
 Este projeto foi desenvolvido como parte de um processo seletivo, com o objetivo de construir um **sistema bancário web** utilizando tecnologias modernas de frontend. A aplicação é capaz de **listar, filtrar, paginar e visualizar detalhes de clientes bancários**, bem como exibir informações relacionadas às suas contas e agências.
 
-🔗 [Acesse a versão online do sistema](https://carreiranicolas-banestes.vercel.app/) <!-- substitua se o link de deploy for outro -->
+🔗 [Acesse a versão online do sistema](https://carreiranicolas.github.io/Project-Banestes/) <!-- substitua se o link de deploy for outro -->
 
 ---
 
